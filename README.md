@@ -24,7 +24,7 @@ SECOND -STEP : TYPE npm run start .
 
 
 
-# Project 1  -  Shopify-tailwindcss-clone
+# Project 2  -  Shopify-tailwindcss-clone
 
 # Project Details 
 
